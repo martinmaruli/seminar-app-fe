@@ -1,0 +1,1 @@
+# seminar-app-fe
